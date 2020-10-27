@@ -1,0 +1,4 @@
+
+cupy-cuda110==8.0.0
+numpy==1.19.2
+pygame==1.9.6
